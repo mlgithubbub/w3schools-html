@@ -1,0 +1,12 @@
+body {
+    background-color: chartreuse;
+}
+
+h1 {
+    color: black;
+    font-family: courier;
+    font-size: 20%;
+    border: 2px solid powderblue;
+    padding: 30px;
+    margin: 50px;
+}
